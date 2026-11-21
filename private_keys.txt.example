@@ -1,0 +1,6 @@
+# Masukkan Private Key wallet EVM Anda di sini (1 baris per wallet).
+# Format: 0x... atau tanpa 0x
+#
+# CONTOH:
+# 0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+# 0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890

@@ -1,0 +1,26 @@
+# Private keys & credentials (CRITICAL)
+private_keys.txt
+proxies.txt
+.env
+*.pem
+*.key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.pytest_cache/
+env/
+venv/
+.venv/
+
+# System & IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Reverse-engineering & Scratch artifacts
+re-artifacts/
+scratch/
